@@ -16,8 +16,8 @@ This will output a csv file with the Day, Month, Year, Time in UTC, and type of 
 ##### Example output:
 ```
       Day 	Month   	Moon Phase 	 Time (UTC)	Year
-0     2   	January 	Last Quarter    05:30     	2016
-1     10      January 	New Moon 	   01:30 	    2016
+0     2   	January 	Last Quarter     05:30     	2016
+1     10        January 	New Moon 	 01:30          2016
 ```
 
 
